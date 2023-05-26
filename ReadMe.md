@@ -1,7 +1,7 @@
-Med hjälp av mitt program kan man nu enkelt se vädret och temperaturen där man är.
-Om man har sätt och sedan vill ha den uppdaterad så är det bara att klicka på knappen i programmet som sedan uppdaterar informationen.
+hemsidan jag har skapat gör så att du kan se vädret och tempraturen. 
+om du vill upptatera din information klickar du på uppdatering solen i högra hörnet längst upp. 
 
 
-För att köra programmet ska man vara i weather-man och använda kommandot "npm start".
+för att köra programet måste du fara i fillen och skriva "npm start"
 
-För att programmet ska fungera ska du tillåta att hemsidan får se vart du är.
+sen för att hemsidan ska kunna fungera måste du låta den få tillgång till din plats. 
