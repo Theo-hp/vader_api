@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Recursive&display=swap');
+
+.main{
+    width: 700px;
+    background-image: linear-gradient(blue, green);
+}
+
+.top{
+    height: 60px;
+    color: wheat;
+    padding: 10px;
+    border-radius: 0 0 20px 20px;
+    font-family: monospace, sans-serif;
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-logo{
+    width: 30px;
+    height: 30px;
+    border-radius: 90px;
+}
+
+.button-ref{
+    border-radius: 20px;
+    border-width: 3px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: none;
+    background-color: yellow;
+}
+
+.header{
+    color: wheat;
+    margin: 10px 0px 0px 10px;
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 20px;
+    font-family: monospace, sans-serif;
+}
+
+.day{
+    padding: 15px;
+    color: wheat;
+    font-family: monospace, sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.temp{
+    padding: 15px;
+    color: wheat;
+    font-family: monospace, sans-serif;
+    font-size: 18px;
+}
+
+.button{
+    width: 35px;
+    height: 35px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sunrise-sunset{
+    padding: 15px;
+    color: wheat;
+    font-family: monospace, sans-serif;
+    font-size: 16px;
+}
+
+.description{
+    padding: 15px;
+    color: wheat;
+    font-family: monospace, sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
